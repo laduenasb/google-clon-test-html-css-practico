@@ -1,4 +1,4 @@
-# Google Clone Test
+# Google Clone Test :bulb:
 
 This is a project for a Google search page clone, designed to practice HTML and CSS skills. The clone is based on the classic Google search page and includes the search bar, buttons, and results section.
 
